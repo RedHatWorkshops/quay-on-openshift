@@ -15,7 +15,8 @@ clair:
     port: 6062
     timeout: 900s
 
-    # paginationkey can be any random set of characters. *Must be the same across all Clair instances*.
+    # paginationkey can be any random set of characters. *Must be the same across all Clair instances*. might
+    # be nice to make this a var at some point
     paginationkey: "XxoPtCUzrUv4JV5dS+yQ+MdW7yLEJnRMwigVY/bpgtQ="
 
   updater:
