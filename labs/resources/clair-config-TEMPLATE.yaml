@@ -44,8 +44,8 @@ jwtproxy:
       private_key:
         type: preshared
         options:
-	  key_id: ${CLAIR_SERVICE_KEY_ID}
-	  private_key_path: /secscanerpem/security_scanner.pem
+          key_id: "${CLAIR_SERVICE_KEY_ID}"
+          private_key_path: /secscanerpem/security_scanner.pem
 
 
   verifier_proxies:
