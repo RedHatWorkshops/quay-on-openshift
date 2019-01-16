@@ -15,3 +15,4 @@ This workshop is broken up into Labs for easier consumption.
 * [Installing Clair](labs/2.installingclair.md)
 * [Creatings Users and Organizations](labs/3.usersandorgs.md)
 * [Pushing and Pulling images](labs/4.pushingandpulling.md)
+* [Assigning Users to Teams](labs/5.userstoteams.md)
