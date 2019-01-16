@@ -14,3 +14,4 @@ This workshop is broken up into Labs for easier consumption.
 * [Configure Quay](labs/1.configurequay.md)
 * [Installing Clair](labs/2.installingclair.md)
 * [Creatings Users and Organizations](labs/3.usersandorgs.md)
+* [Pushing and Pulling images](labs/4.pushingandpulling.md)
